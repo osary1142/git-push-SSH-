@@ -1,0 +1,1 @@
+git remote set-url origin git@github.com:osary1142/<保存するリポジトリ名>
